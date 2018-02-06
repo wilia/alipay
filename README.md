@@ -1,6 +1,6 @@
 ## python-alipay-sdk
 [![PyPI version](https://badge.fury.io/py/python-alipay-sdk.svg)](https://badge.fury.io/py/python-alipay-sdk) [![codecov](https://codecov.io/gh/fzlee/alipay/branch/master/graph/badge.svg)](https://codecov.io/gh/fzlee/alipay) ![travis-ci](https://travis-ci.org/fzlee/alipay.svg?branch=master)
-## [中文文档](https://github.com/fzlee/alipay/blob/master/README.zh-hans.md)
+## [中文文档](https://github.com//wilia/alipay/blob/master/README.zh-hans.md)
 
 ##  AliPay Python SDK
 I can't find any official python alipay sdks so far, and it really pains a lot dealing with those sign methods. Hoping this library could do some help :).
